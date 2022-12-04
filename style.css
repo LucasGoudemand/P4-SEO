@@ -742,8 +742,10 @@ h1 {
     color: #333333 !important;
 }
 
-h4 {
-    color: #333333 !important;
+.col-sm-12 h3 {
+    text-transform: none;
+    color: #575757 !important;
+    font-size: 20px;
 }
 
 .icons {
@@ -838,7 +840,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
